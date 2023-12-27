@@ -1,5 +1,4 @@
 import {DataHandler} from '../../../src/domain/data-handler'
-import {createWriteStream} from 'fs'
 import fs from 'fs'
 
 
